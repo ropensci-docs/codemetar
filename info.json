@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "94096f9e6369e0913cc0fe5034e0c08a97080586",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2020-09-18 08:06:56",
+    "files": 1,
+    "merge": false,
+    "message": "Update R-CMD-check.yaml"
+  },
+  "remote": "https://github.com/ropensci/codemetar",
+  "pkg": "codemetar"
+}
