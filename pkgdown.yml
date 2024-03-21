@@ -1,0 +1,12 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  examples-parsing-codemeta: examples-parsing-codemeta.html
+  validation-in-json-ld: validation-in-json-ld.html
+  codemetar: codemetar.html
+last_built: 2024-03-21T07:26Z
+urls:
+  reference: https://docs.ropensci.org/codemetar/reference
+  article: https://docs.ropensci.org/codemetar/articles
+

@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "26a6bbdd95cb17199e20630ddc8b1e24d41adfb2",
+    "author": "Arthit Suriyawongkul <arthit@gmail.com>",
+    "time": "2024-02-20 08:24:34",
+    "files": 1,
+    "merge": false,
+    "message": "Update licenseId examples in codemeta_schema.json (#341)\n\nIn the examples,\r\n- replaced `GPL-3.0` and `LGPL-3.0`\r\n- with `GPL-3.0-only` and `LGPL-3.0-or-later`\r\n\r\n## Reason\r\n\r\n`GPL-3.0` and `LGPL-3.0` are deprecated in SPDX license list:\r\n- https://spdx.org/licenses/GPL-3.0\r\n- https://spdx.org/licenses/LGPL-3.0\r\n\r\nNew license IDs are `GPL-3.0-only`,`GPL-3.0-or-later`, `LGPL-3.0-only` and `LGPL-3.0-or-later`:\r\n- https://spdx.org/licenses/GPL-3.0-only\r\n- https://spdx.org/licenses/GPL-3.0-or-later\r\n- https://spdx.org/licenses/LGPL-3.0-only\r\n- https://spdx.org/licenses/LGPL-3.0-or-later"
+  },
+  "repo": "https://github.com/ropensci/codemetar",
+  "pkg": "codemetar"
+}
