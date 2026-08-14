@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "3d98aaa481e9b569f4687b9063e8f88d2320988c",
+    "author": "Carl Boettiger <cboettig@berkeley.edu>",
+    "time": "2026-02-10T18:06:48Z",
+    "files": 1,
+    "merge": false,
+    "message": "Fix Mac CI: Hardcode R 4.4.2 to bypass rversions resolver timeout\n"
+  },
+  "repo": "https://github.com/ropensci/codemetar",
+  "pkg": "codemetar",
+  "time": "2026-08-14T18:45:30Z"
+}
